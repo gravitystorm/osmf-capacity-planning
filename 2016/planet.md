@@ -6,7 +6,7 @@ title: Planet services
 
 ## Ironbelly Disk Usage
 
-[![](/images/2015/ironbelly-df-year.png)](http://munin.openstreetmap.org/openstreetmap/ironbelly.openstreetmap/df.html)
+[![]({{ site.baseurl }}/images/2015/ironbelly-df-year.png)](http://munin.openstreetmap.org/openstreetmap/ironbelly.openstreetmap/df.html)
 
 Both /store (sda, 25 TB) and / (sdb, 148 GB) are bouncing along at full.
 

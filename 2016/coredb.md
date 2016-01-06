@@ -8,7 +8,7 @@ title: Core databases
 
 ## Katla /store/arrays/fast
 
-[![](/images/2015/katla-df-year.png)](http://munin.openstreetmap.org/openstreetmap/katla.openstreetmap/df.html)
+[![]({{ site.baseurl }}/images/2015/katla-df-year.png)](http://munin.openstreetmap.org/openstreetmap/katla.openstreetmap/df.html)
 
 Increase is roughly linear. H/M/L set to 125%/100%/75% of last year's increase.
 
@@ -40,7 +40,7 @@ Capacity: 367 GB = Green
 
 ## Ramoth /store/postgresql/openstreetmap
 
-[![](/images/2015/ramoth-df-year.png)](http://munin.openstreetmap.org/openstreetmap/ramoth.openstreetmap/df.html)
+[![]({{ site.baseurl }}/images/2015/ramoth-df-year.png)](http://munin.openstreetmap.org/openstreetmap/ramoth.openstreetmap/df.html)
 
 Increase is roughly linear. H/M/L 125/100/75 of last year's increase.
 
@@ -57,13 +57,13 @@ Capacity: 8 TB = Green
 
 ## Katla
 
-[![](/images/2015/katla-utilization-sda-year.png)](http://munin.openstreetmap.org/openstreetmap/katla.openstreetmap/diskstats_utilization/index.html)
+[![]({{ site.baseurl }}/images/2015/katla-utilization-sda-year.png)](http://munin.openstreetmap.org/openstreetmap/katla.openstreetmap/diskstats_utilization/index.html)
 
 Full utilisation. Discussion required as to whether this is a problem!
 
 ## Ramoth
 
-[![](/images/2015/ramoth-sdb-year.png)](http://munin.openstreetmap.org/openstreetmap/ramoth.openstreetmap/diskstats_utilization/sdb.html)
+[![]({{ site.baseurl }}/images/2015/ramoth-sdb-year.png)](http://munin.openstreetmap.org/openstreetmap/ramoth.openstreetmap/diskstats_utilization/sdb.html)
 
 Constant utilisation.
 

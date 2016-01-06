@@ -1,6 +1,6 @@
 # Site settings
 title: OSMF Capacity Planning
-
+baseurl: /osmf-capacity-planning
 # Build settings
 markdown: kramdown
 
