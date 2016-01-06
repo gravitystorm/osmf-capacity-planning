@@ -1,0 +1,13 @@
+# Site settings
+title: OSMF Capacity Planning
+
+# Build settings
+markdown: kramdown
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
