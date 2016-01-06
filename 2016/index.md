@@ -1,5 +1,5 @@
 ---
-title: 2015 Capacity Plan
+title: 2016 Capacity Plan
 ---
 
 # {{ page.title }}
@@ -15,5 +15,5 @@ title: 2015 Capacity Plan
 * [Wiki]({{ site.baseurl }}/2016/wiki.html)
 * Tileservers
 * Nominatim
-*
+
 ## Tier 3
