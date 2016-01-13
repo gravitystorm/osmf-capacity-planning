@@ -13,10 +13,10 @@ title: 2016 Capacity Plan
 ## Tier 2
 
 * [Wiki]({{ site.baseurl }}/2016/wiki.html)
-* Tileservers
-* Nominatim
+* [Tileservers]({{ site.baseurl }}/2016/tileservers.html)
+* [Nominatim]({{ site.baseurl }}/2016/nominatim.html)
 * [Forum]({{ site.baseurl }}/2016/forum.html)
-* Help (osqa)
+* [Help]({{ site.baseurl }}/2016/help.html)
 
 ## Tier 3
 
