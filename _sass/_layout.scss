@@ -242,7 +242,10 @@ dl {
     float: left;
     clear: left;
     width: 220px;
-    font-weight: bold;
+
+    strong {
+      font-weight: bold;
+    }
   }
 
   dd {
