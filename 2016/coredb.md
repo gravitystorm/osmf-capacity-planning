@@ -10,7 +10,7 @@ title: Core databases
 
 [![]({{ site.baseurl }}/images/2015/katla-df-year.png)](http://munin.openstreetmap.org/openstreetmap/katla.openstreetmap/df.html)
 
-Increase is roughly linear. H/M/L set to 125%/100%/75% of last year's increase.
+Increase is roughly linear.
 
 * Jan 2015: 4.66 TB
 * Jan 2016: 5.53 TB (0.87 TB increase)
@@ -24,7 +24,7 @@ No trend, plenty of space
 
 ## Katla /store/arrays/ssd
 
-Increase is roughly linear. H/M/L 125/100/75 of last year's increase.
+Increase is roughly linear.
 
 * Jan 2015: 183 GB
 * Jan 2016: 245 GB (62 GB increase)
@@ -37,7 +37,7 @@ Increase is roughly linear. H/M/L 125/100/75 of last year's increase.
 
 [![]({{ site.baseurl }}/images/2015/ramoth-df-year.png)](http://munin.openstreetmap.org/openstreetmap/ramoth.openstreetmap/df.html)
 
-Increase is roughly linear. H/M/L 125/100/75 of last year's increase.
+Increase is roughly linear.
 
 * Jan 2015: 4.64 TB
 * Jan 2016: 5.67 TB (1.03 TB increase)
