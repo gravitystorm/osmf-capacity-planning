@@ -14,12 +14,9 @@ Increase is roughly linear. H/M/L set to 125%/100%/75% of last year's increase.
 
 * Jan 2015: 4.66 TB
 * Jan 2016: 5.53 TB (0.87 TB increase)
-* Jan 2017:
-  * High: 6.62 TB
-  * Medium: 6.40 TB
-  * Low: 6.18TB
+* Jan 2017 Estimates:
 
-7TB Capacity = Green
+{% include linear.md units='TB' previous=4.66 current=5.53 capacity=7 %}
 
 ## Katla /store/arrays/slow
 
@@ -31,12 +28,10 @@ Increase is roughly linear. H/M/L 125/100/75 of last year's increase.
 
 * Jan 2015: 183 GB
 * Jan 2016: 245 GB (62 GB increase)
-* Jan 2017:
-  * High: 323 GB
-  * Medium: 307 GB
-  * Low: 291 GB
+* Jan 2017 Estimates:
 
-Capacity: 367 GB = Green
+{% include linear.md units='GB' previous=183 current=245 capacity=367 %}
+
 
 ## Ramoth /store/postgresql/openstreetmap
 
@@ -46,12 +41,9 @@ Increase is roughly linear. H/M/L 125/100/75 of last year's increase.
 
 * Jan 2015: 4.64 TB
 * Jan 2016: 5.67 TB (1.03 TB increase)
-* Jan 2017:
-  * High: 6.96 TB
-  * Medium: 6.70 TB
-  * Low: 6.44 TB
+* Jan 2017 Estimates:
 
-Capacity: 8 TB = Green
+{% include linear.md units='TB' previous=4.64 current=5.67 capacity=8 %}
 
 # Disk utilisation
 
