@@ -15,5 +15,13 @@ title: 2016 Capacity Plan
 * [Wiki]({{ site.baseurl }}/2016/wiki.html)
 * Tileservers
 * Nominatim
+* Forum
+* Help (osqa)
 
 ## Tier 3
+
+* [Dev]({{ site.baseurl }}/2016/dev.html)
+* [gps-tile]({{ site.baseurl }}/2016/gps-tile.html)
+* [imagery]({{ site.baseurl }}/2016/imagery.html)
+* [Taginfo]({{ site.baseurl }}/2016/taginfo.html)
+* [yournavigation]({{ site.baseurl }}/2016/yournavigation.html)
