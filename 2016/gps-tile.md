@@ -1,7 +1,13 @@
 ---
 title: gps-tile
+servers:
+  - noquiklos
 ---
 
-Machine: [noquiklos](http://munin.openstreetmap.org/openstreetmap/noquiklos.openstreetmap/index.html)
+[2016]({{ site.baseurl }}/2016/)
+
+# {{ page.title }}
+
+{% include server-links.md %}
 
 Constant disk usage, nothing else shows any upwards trends either.

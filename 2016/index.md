@@ -15,7 +15,7 @@ title: 2016 Capacity Plan
 * [Wiki]({{ site.baseurl }}/2016/wiki.html)
 * Tileservers
 * Nominatim
-* Forum
+* [Forum]({{ site.baseurl }}/2016/forum.html)
 * Help (osqa)
 
 ## Tier 3

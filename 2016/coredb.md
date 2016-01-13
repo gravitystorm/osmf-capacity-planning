@@ -1,8 +1,15 @@
 ---
 title: Core databases
+servers:
+  - katla
+  - ramoth
 ---
 
+[2016]({{ site.baseurl }}/2016/)
+
 # {{ page.title }}
+
+{% include server-links.md %}
 
 # Disk space
 

@@ -1,8 +1,14 @@
 ---
 title: Dev
+servers:
+  - ramoth
 ---
 
-Machines: [errol](http://munin.openstreetmap.org/openstreetmap/errol.openstreetmap/index.html)
+[2016]({{ site.baseurl }}/2016/)
+
+# {{ page.title }}
+
+{% include server-links.md %}
 
 Dev is hard to capacity plan for, since by definition anything that uses up capacity on dev shouldn't be there!
 
