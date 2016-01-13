@@ -1,5 +1,5 @@
 {% assign increase = include.current | minus: include.previous %}
-{% assign high = increase | times: 1.25 | plus: include.current %}
+{% assign high = increase | times: 1.5 | plus: include.current %}
 {% assign medium = increase | times: 1.0 | plus: include.current %}
 {% assign low = increase | times: 0.75 | plus: include.current %}
 {% assign full = 0.92 %}
