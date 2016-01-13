@@ -2,6 +2,8 @@
 {% assign high = increase | times: 1.25 | plus: include.current %}
 {% assign medium = increase | times: 1.0 | plus: include.current %}
 {% assign low = increase | times: 0.75 | plus: include.current %}
+{% assign full = 0.92 %}
+{% assign capacity = include.capacity | times: full %}
 
 **High**
 : {{ high }} {{ include.units }}
@@ -12,15 +14,15 @@
 **Low**
 : {{ low }} {{ include.units }}
 
-**Current Capacity**
-: {{ include.capacity }} {{ include.units }}
+**Capacity** (at {{ full| times: 100 }}%)
+: {{ capacity }} {{ include.units }}
 
 **Status**
-{% if include.capacity > high %}
+{% if capacity > high %}
 : Green
-{% elsif include.capacity > medium %}
+{% elsif capacity > medium %}
 : Yellow
-{% elsif include.capacity > low %}
+{% elsif capacity > low %}
 : Orange
 {% else %}
 : Red
