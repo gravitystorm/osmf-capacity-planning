@@ -20,4 +20,4 @@ Dulcy is brand-new and has plenty of capacity for Nominatim in 2016.
 
 ![]({{ site.baseurl }}/images/2015/pummelzachen-df-year.png)
 
-It looks like the /ssd mount will be touch-and-go on pummelzachen, but it needs more information as to why the disk space changes and what growth to expect.
+The growth on /ssd is mostly due to database bloat while the actual growth of the DB is less than 5%. There is enough capacity for 2016.
